@@ -1,0 +1,22 @@
+body{
+	background-color: black !important;
+	color: lightgray !important;
+	font-family: 'Spirax', cursive !important; 
+}
+select.form-control{
+	width: 50%;
+	text-align: center;
+}
+.header{
+	text-align: center;
+	font-weight: bold;
+	font-size: 36px;
+	padding-bottom: 2em;
+	padding-top: 1em;
+}
+#button{
+	margin-top: 1%;
+}
+div.modal-content{
+	background-color: black !important;
+}
